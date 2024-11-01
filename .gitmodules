@@ -1,3 +1,10 @@
 [submodule "CarDealership"]
 	path = CarDealership
 	url = https://github.com/kiwib789/CarDealership
+[submodule "HotelOperations"]
+	path = HotelOperations
+	url = https://github.com/kiwib789/HotelOperations
+[submodule "donut-factory"]
+	path = donut-factory
+	url = https://github.com/kiwib789/donut-factory
+
